@@ -2,6 +2,10 @@
 
 Este proyecto está compuesto por 4 ejercicios desarrollados en Python, utilizando el paradigma de Programación Orientada a Objetos (POO). A continuación se describe la estructura del proyecto y la funcionalidad de cada uno de los ejercicios. Cabe destacar que el **Ejercicio 5** no fue realizado por recomendación del profesor.
 
+## Grupo conformado por los estudiantes:
+*Yuleidy Cruz Valbuena* **ID Banner: 100171731**
+*Jorge Hernán Velasco Gómez* **ID Banner: 100184860**
+
 ## Estructura del Proyecto
 
 El proyecto contiene los siguientes archivos:
