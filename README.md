@@ -4,6 +4,7 @@ Este proyecto está compuesto por 4 ejercicios desarrollados en Python, utilizan
 
 ## Grupo conformado por los estudiantes:
 *Yuleidy Cruz Valbuena* **ID Banner: 100171731**
+---
 *Jorge Hernán Velasco Gómez* **ID Banner: 100184860**
 
 ## Estructura del Proyecto
